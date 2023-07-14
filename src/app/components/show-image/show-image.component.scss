@@ -1,0 +1,17 @@
+.hidden{
+	display: none;
+}
+
+button {
+	padding: 25px;
+	border: 1px solid lightblue;
+	border-radius: 1rem;
+	background-color: rgb(236, 245, 248);
+	cursor: pointer;
+	font-size: 25px;
+
+	span {
+		font-size: 35px;
+		margin-left: 10px
+	};
+}
